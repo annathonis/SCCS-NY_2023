@@ -7,12 +7,13 @@
 * Bethany A. Johnson, City College of New  York, CUNY (wallaceecomod@gmail.com)
 ---
 ## Logistics   
-Date: Wednesday, October 4    
-Time: 12:30 - 3:30 pm EST   
-Location: TBD    
+* Date: Wednesday, October 4    
+* Time: 12:30 - 3:30 pm EST   
+* Location: TBD    
 ---
 ## Description
-Species distribution modeling (SDM) is an important tool for conservation scientists, as it enables us to estimate present species range limits and make predictions about ranges for other areas and time periods. Advances in model-building and evaluation theory are common in the ecology and evolution literature. However, most cutting-edge methods are only accessible to those scientists who can read and write computer code, which results in a 'barrier to use' for many potential users. The Wallace ecological modeling application, implemented in the R programming language as the CRAN package wallace, provides a graphical user interface allowing any user to implement advanced SDM methods. Additionally, Wallace provides extensive guidance text and references key papers from the literature to help both new and experienced users learn best practices. Each model-building session can be exported as a fully documented R Markdown script file, to ensure reproducibility, ease of reporting, and for more advanced users, an easily modifiable code that extends Wallace's functionality. In this workshop, we will go through the basics of SDM using Wallace. We will demonstrate the key features of the modular software, show applications to conservation science, and specifically the utility of SDM outputs for formal IUCN assessments.
+Species distribution modeling (SDM) is an important tool for conservation scientists, as it enables us to estimate present species range limits and make predictions about ranges for other areas and time periods. Advances in model-building and evaluation theory are common in the ecology and evolution literature. However, most cutting-edge methods are only accessible to those scientists who can read and write computer code, which results in a 'barrier to use' for many potential users. The Wallace ecological modeling application, implemented in the R programming language as the CRAN package wallace, provides a graphical user interface allowing any user to implement advanced SDM methods. Additionally, Wallace provides extensive guidance text and references key papers from the literature to help both new and experienced users learn best practices. Each model-building session can be exported as a fully documented R Markdown script file, to ensure reproducibility, ease of reporting, and for more advanced users, an easily modifiable code that extends Wallace's functionality. In this workshop, we will go through the basics of SDM using Wallace. We will demonstrate the key features of the modular software, show applications to conservation science, and specifically the utility of SDM outputs for formal IUCN assessments.  
+
 ---
 ## Workshop Schedule
 * 12:30 - 12:45: Who we are and why are we here
