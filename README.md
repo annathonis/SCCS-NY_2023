@@ -48,7 +48,7 @@ ___
 ## Data for workshop
 During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.
 
-This [canned data](https://github.com/annathonis/annathonis.github.io/files/11556818/Intro.to.GIS.pdf) includes the following:  
+This [canned data](https://drive.google.com/drive/folders/1YwgKWt5J5VOvsro4lsXjb2uf4EfbLU5L?usp=drive_link) includes the following:  
 * Occurrence data for two species 
 * Environmental data at 2.5 arcmin resolution 
 * A binary SDM 
