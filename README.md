@@ -31,8 +31,8 @@ ___
 ## Getting started
 Please install R and Wallace prior to this Workshop. Downloading Wallace in R can take a while depending on your computer.
 
-1. Install R (version ≥ v.3.5.0) Download for Windows or Mac We also recommend downloading Rstudio, which makes running R visually easier.
-Alternatively, you can use Rstudio cloud with a Google or Github account.
+1. Install R (version ≥ v.3.5.0) Download for [Windows](https://cran.r-project.org/bin/windows/base/) or [Mac](https://cran.r-project.org/bin/macosx/) We also recommend downloading [Rstudio](https://posit.co/download/rstudio-desktop/#download), which makes running R visually easier.
+Alternatively, you can use [Rstudio cloud](https://posit.cloud/) with a Google or Github account.
 
 2. Install the 'wallace' package from CRAN (version #)
    * Open Rstudio.
@@ -48,16 +48,16 @@ ___
 ## Data for workshop
 During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.
 
-[Canned data](https://github.com/annathonis/annathonis.github.io/files/11556818/Intro.to.GIS.pdf)
-Includes
-* Occurrence data for two species
-* Environmental data at 2.5 arcmin resolution
-* A binary SDM
-* A shapefile of Colombia
+[Canned data](https://github.com/annathonis/annathonis.github.io/files/11556818/Intro.to.GIS.pdf) 
+Includes 
+* Occurrence data for two species 
+* Environmental data at 2.5 arcmin resolution 
+* A binary SDM 
+* A shapefile of Colombia 
 ___
 ## Wallace-specific resources
-Wallace homepage
-Link to Wallace How-To vignette
+[Wallace homepage](https://wallaceecomod.github.io/)   
+[Link to Wallace How-To vignette](https://wallaceecomod.github.io/wallace/articles/tutorial-v2.html)   
 ___
 ## Issues
-If you encounter a bug while using Wallace, you can report it using this Bug Reporting Form
+If you encounter a bug while using Wallace, you can report it using this [Bug Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSd4giDOteMbzOkyN-rLghMqWFeVjxjjL1AAWxIt-7qyAQDcbA/viewform) 
