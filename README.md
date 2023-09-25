@@ -37,6 +37,7 @@ Alternatively, you can use Rstudio cloud with a Google or Github account.
 2. Install the 'wallace' package from CRAN (version #)
    * Open Rstudio.
    * Enter the following code into the terminal and hit Run. This may take a several minutes.
+     
 ’’’install.packages("devtools")  
 devtools::install_github("wallaceecomod/wallace@master")  
 library(wallace)  
