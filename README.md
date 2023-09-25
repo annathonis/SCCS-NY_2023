@@ -38,8 +38,10 @@ Alternatively, you can use Rstudio cloud with a Google or Github account.
    * Open Rstudio.
    * Enter the following code into the terminal and hit Run. This may take a several minutes.
      
-’’’install.packages("devtools")  
+’’’
+install.packages("devtools")  
 devtools::install_github("wallaceecomod/wallace@master")  
 library(wallace)  
-run_wallace()’’’
+run_wallace()
+’’’
 ___
