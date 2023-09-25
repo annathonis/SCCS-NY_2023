@@ -49,6 +49,7 @@ ___
 During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.
 
 [Canned data](https://github.com/annathonis/annathonis.github.io/files/11556818/Intro.to.GIS.pdf)    
+
 Includes 
 * Occurrence data for two species 
 * Environmental data at 2.5 arcmin resolution 
