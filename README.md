@@ -11,6 +11,7 @@ ___
 Date: Wednesday, October 4   
 Time: 12:30 - 3:30 pm EST   
 Location: TBD  
+
 ___
 
 ## Description
