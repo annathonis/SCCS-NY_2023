@@ -7,10 +7,8 @@ ___
 * Bethany A. Johnson, City College of New  York, CUNY (wallaceecomod@gmail.com)
 ___
 ## Logistics
-Date: Wednesday, October 4
-
-Time: 12:30 - 3:30 pm EST
-
+Date: Wednesday, October 4 
+Time: 12:30 - 3:30 pm EST 
 Location: TBD
 ___
 ## Description
