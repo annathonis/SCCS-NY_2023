@@ -6,7 +6,8 @@
 * Daniel Lopez Lozano, American Museum of Natural History (dlopezlozano@amnh.org) 
 * Bethany A. Johnson, City College of New  York, CUNY (wallaceecomod@gmail.com)
 
----
+---  
+
 ## Logistics    
 * Date: Wednesday, October 4    
 * Time: 12:30 - 3:30 pm EST   
