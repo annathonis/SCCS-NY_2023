@@ -24,7 +24,7 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 ---  
    
 ## Workshop Schedule  
-* 12:30 - 12:45: Who we are and why are we here  
+* 12:30 - 12:45: Who we are, why we are here, and who are you?  
 * 12:45 - 1:30: Introduction to species distribution modeling  
 * 1:30 - 2:00: Introduction to R and Wallace  
 * 2:00 - 2:15: Break / troubleshootting  
